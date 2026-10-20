@@ -1,0 +1,27 @@
+{
+  "manifest_version": "1.0",
+  "org": "simonw",
+  "repo": "llm-openai-decisions",
+  "versions": [
+    {
+      "commit": "4827324f5b55a5a4e8626b81518d48706d790a08",
+      "parsed_at": "2026-10-20T10:12:25.244722+00:00",
+      "tag": "0.1a0",
+      "filetree": "filetree/4827324f5b55a5a4e8626b81518d48706d790a08.nq.gz",
+      "blobs": [
+        "blob/03be2f1fe6d36833afeeb8824a3123faa7474262.nq.gz",
+        "blob/bd71d92b21eb162456e495c0b314df5f6c5e4978.nq.gz",
+        "blob/29017e96c90b341a9c108deaa015e773e2fa81f0.nq.gz",
+        "blob/8433b121acb46137ab14ed4ad03d09dc3bbcbe5d.nq.gz",
+        "blob/a5ab08854148420219be161ca6ab715356825d40.nq.gz",
+        "blob/d0d5ce3ee8fa6494d61b4f902ee7d8de943e1b36.nq.gz",
+        "blob/037fa5fcdb7adb35e8392c6e716635ec841a347d.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz",
+        "blob/8c853af6d83c999b7e95de091fa67ab965ee0493.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
